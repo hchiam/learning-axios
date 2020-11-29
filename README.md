@@ -60,11 +60,15 @@ Or:
 Using [`yarn`](https://github.com/hchiam/learning-yarn): (triple-click to select all)
 
 ```bash
-git clone https://github.com/hchiam/learning-axios.git && cd learning-axios && yarn; # and then ...
+git clone https://github.com/hchiam/learning-axios.git && cd learning-axios && yarn;
+# and then
+node index.js
 ```
 
 Or with `npm`: (triple-click to select all)
 
 ```bash
-git clone https://github.com/hchiam/learning-axios.git && cd learning-axios && npm install; # and then ...
+git clone https://github.com/hchiam/learning-axios.git && cd learning-axios && npm install;
+# and then
+node index.js
 ```
