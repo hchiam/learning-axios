@@ -72,3 +72,7 @@ git clone https://github.com/hchiam/learning-axios.git && cd learning-axios && n
 # and then
 node index.js
 ```
+
+## Integration with GraphQL?
+
+<https://stackoverflow.com/a/52868182> or <https://medium.com/@stubailo/how-to-call-a-graphql-server-with-axios-337a94ad6cf9>
