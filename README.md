@@ -4,6 +4,11 @@ Just one of the things I'm learning. <https://github.com/hchiam/learning>
 
 <https://github.com/axios/axios> has many more examples and API details.
 
+Axios vs [Apollo](https://github.com/hchiam/learning-react-apollo):
+
+- Axios = REST API
+- Apollo = GraphQL API
+
 ## Pseudo-code examples
 
 ```js
